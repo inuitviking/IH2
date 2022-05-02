@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 # IH2
 
 "Intelligent house 2" is an extension of The Intelligent House.
@@ -11,6 +9,9 @@ Just like the previous project, this will be hosted on Gitlab, but I will make s
 
 This project will be split into various projects, as to not confuse the programmer.
 Proper documentation will appear in *this* repository, and links to the other projects will appear below.
+
+## Table of Contents
+[[_TOC_]]
 
 ## List of repositories
 
