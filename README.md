@@ -27,12 +27,26 @@ Proper documentation will appear in *this* repository, and links to the other pr
  - [ ] To make a good documentation, which gives programmers fast information to use for debugging and configuration.
 
 ### Personal requirements
- - [ ] Make use of MKR Wifi 1010 to upload sensor readings (from self or other boards) via MQTT.
- - [ ] Make use of MKR WiFi 1010 to authenticate cards via an online database (could be a local raspberry pi later).
- - [ ] Make use of a knob to have a menu (after login).
+ - [ ] Make use of MKR Wifi 1010 to upload sensor reading via MQTT.
+    - [ ] From self
+    - [ ] If there's time, also from other boards.
+ - [ ] Make use of other devices and MQTT services to send commands to the board(s) via MQTT.
+    - [ ] Via MQTT clients
+    - [ ] If there's time, a custom (quickly made) web interface and/or CLI.
+ - [ ] Make use of MKR WiFi 1010 to authenticate cards.
+    - [ ] Via a local array.
+    - [ ] If there's time, also with an online database via HTTP requests; could also be a local raspberry pi.
+ - [ ] Make use of a knob to have a menu after login.
+ - [ ] Make use of the RTC.
+
+#### If there is time, these are also some extensions to the above requirements.
  - [ ] Make use of a database and an online API for the MKR WiFi 1010 to communicate with (both MQTT and HTTP).
- - [ ] Send warnings and errors (if possible) to the online API and/or Discord API; Discord API is if there is time.
- - [ ] Make use of the RTC clock and have it synch with the internet (if possible).
+    - [ ] MariaDB to store authorised cards.
+    - [ ] Web server to handle the POST and GET requests
+ - [ ] Send warnings and errors to an online API.
+    - [ ] Discord API (create a bot or websocket); This one is the easiest, so this one first.
+    - [ ] Self Made API.
+ - [ ] Sync RTC via the internet.
 
 #### Components
  - [ ] MKR WiFi 1010 (Board)
@@ -42,6 +56,8 @@ Proper documentation will appear in *this* repository, and links to the other pr
  - [ ] DH11 (Temperature And Humidity Reader)
  - [ ] MicroServo 9G SG90 (Servo Motor)
  - [ ] LEDs
+
+##### If there is time, also include these:
  - [ ] L293D - For communicating with a generic DC motor.
  - [ ] ELEGOO Power MB V2
  - [ ] 28BYJ-48 Stepper Motor
