@@ -15,6 +15,9 @@ Proper documentation will appear in *this* repository, and links to the other pr
 
 *Note:* If the table of contents is missing, [go to the Gitlab repository instead](https://gitlab.com/InuitViking/ih2).
 
+## Wiki
+General in-depth documentation can be found [here](https://gitlab.com/InuitViking/ih2/-/wikis/home).
+
 ## List of repositories
 
 - [IH2 (documentation - this repository)](https://gitlab.com/InuitViking/ih2)
