@@ -18,6 +18,7 @@ Proper documentation will appear in *this* repository, and links to the other pr
 ## List of repositories
 
 - [IH2 (documentation - this repository)](https://gitlab.com/InuitViking/ih2)
+- [IH2 for MKR1010](https://gitlab.com/InuitViking/ih2_mkr1010)
 
 ## Requirements
 
