@@ -5,7 +5,7 @@
  - [Gitlab repo](https://gitlab.com/InuitViking/the-intelligent-house)
  - [Library repo](https://gitlab.com/InuitViking/libtih)
 
-Just like the previous project, this will be hosted on Gitlab, but I will make sure to mirror it to Github.
+Just like the previous project, this will be hosted on [Gitlab](https://gitlab.com/InuitViking/ih2), but I will make sure to mirror it to [Github](https://github.com/inuitviking/IH2).
 
 This project will be split into various projects, as to not confuse the programmer.
 Proper documentation will appear in *this* repository, and links to the other projects will appear below.
