@@ -13,6 +13,8 @@ Proper documentation will appear in *this* repository, and links to the other pr
 ## Table of Contents
 [[_TOC_]]
 
+*Note:* If the table of contents is missing, [go to the Gitlab repository instead](https://gitlab.com/InuitViking/ih2).
+
 ## List of repositories
 
 - [IH2 (documentation - this repository)](https://gitlab.com/InuitViking/ih2)
