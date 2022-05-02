@@ -1,6 +1,6 @@
 # IH2
 
-"Intelligent house 2" is an extension of The Intelligent House.
+"Intelligent house 2" is an extension of The Intelligent House. Links to the previous project:
 
  - [Gitlab repo](https://gitlab.com/InuitViking/the-intelligent-house)
  - [Library repo](https://gitlab.com/InuitViking/libtih)
@@ -78,4 +78,36 @@ I may or may not be able to use all of these, but focus will be on the wireless 
 
 The rest will come if there is time for it, such as potentially connecting a secondary board.
 
+## Software, Libraries, Languages, and Services
+### Software
+ - Clion
+ - Platform.io
+ - PopOS 22.04
+ - AVRDude
 
+#### Potentially if there is time
+ - Debian 11
+ - MariaDB
+ - Apache / NGINX
+ - Mosquitto
+
+### Languages
+ - C++ (Arduino specific)
+ - BASH
+
+#### Potentially if there is time
+ - PHP
+ - MariaDB flavoured SQL
+ - JavaScript (not too sure about this, though).
+
+### Libraries
+#### C++
+ - Arduino.h
+
+### Services
+ - ThingSpeak / Shiftr.io (whatever I find more useful)
+
+#### Potentially if there is time
+ - Discord API
+ - Self-made API
+ - Self-hosted Mosquitto (open source MQTT broker)
