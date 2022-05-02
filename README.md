@@ -30,8 +30,8 @@ Proper documentation will appear in *this* repository, and links to the other pr
  - [ ] To make a good documentation, which gives programmers fast information to use for debugging and configuration.
 
 ### Personal requirements
- - [ ] Make use of MKR Wifi 1010 to upload sensor reading via MQTT.
-    - [ ] From self
+ - [x] Make use of MKR Wifi 1010 to upload sensor reading via MQTT.
+    - [x] From self
     - [ ] If there's time, also from other boards.
  - [ ] Make use of other devices and MQTT services to send commands to the board(s) via MQTT.
     - [ ] Via MQTT clients
@@ -52,11 +52,11 @@ Proper documentation will appear in *this* repository, and links to the other pr
  - [ ] Sync RTC via the internet.
 
 #### Components
- - [ ] MKR WiFi 1010 (Board)
+ - [x] MKR WiFi 1010 (Board)
  - [ ] RFID-RC522 (RFID Reader)
  - [ ] DS3231 (Real Time Clock)
- - [ ] SSD1306 (OLED Display)
- - [ ] DH11 (Temperature And Humidity Reader)
+ - [x] SSD1306 (OLED Display)
+ - [x] DH11 (Temperature And Humidity Reader)
  - [ ] MicroServo 9G SG90 (Servo Motor)
  - [ ] LEDs
 
