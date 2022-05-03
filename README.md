@@ -16,7 +16,14 @@ Proper documentation will appear in *this* repository, and links to the other pr
 *Note:* If the table of contents is missing, [go to the Gitlab repository instead](https://gitlab.com/InuitViking/ih2).
 
 ## Wiki
-General in-depth documentation can be found [here](https://gitlab.com/InuitViking/ih2/-/wikis/home).
+General in-depth documentation can be found [here](https://gitlab.com/InuitViking/ih2/-/wikis/home) for all projects.
+
+### IH2 MKR1010
+- [General documentation](https://gitlab.com/InuitViking/ih2/-/wikis/ih2_mkr1010).
+- [Flowcharts and schematics](https://gitlab.com/InuitViking/ih2/-/wikis/ih2_mkr1010/diagrams).
+- [Classes](https://gitlab.com/InuitViking/ih2/-/wikis/ih2_mkr1010/classes).
+- [Folder structure](https://gitlab.com/InuitViking/ih2/-/wikis/ih2_mkr1010/folder_structure)
+
 
 ## List of repositories
 
