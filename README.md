@@ -22,7 +22,7 @@ General in-depth documentation can be found [here](https://gitlab.com/InuitVikin
 - [General documentation](https://gitlab.com/InuitViking/ih2/-/wikis/ih2_mkr1010).
 - [Flowcharts and schematics](https://gitlab.com/InuitViking/ih2/-/wikis/ih2_mkr1010/diagrams).
 - [Classes](https://gitlab.com/InuitViking/ih2/-/wikis/ih2_mkr1010/classes).
-- [Folder structure](https://gitlab.com/InuitViking/ih2/-/wikis/ih2_mkr1010/folder structure)
+- [Folder structure](https://gitlab.com/InuitViking/ih2/-/wikis/ih2_mkr1010/folder%20structure)
 
 
 ## List of repositories
