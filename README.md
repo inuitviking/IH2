@@ -24,11 +24,14 @@ General in-depth documentation can be found [here](https://gitlab.com/InuitVikin
 - [Classes](https://gitlab.com/InuitViking/ih2/-/wikis/ih2_mkr1010/classes).
 - [Folder structure](https://gitlab.com/InuitViking/ih2/-/wikis/ih2_mkr1010/folder%20structure)
 
+### IH2 App
+- [General documentation](#)
 
 ## List of repositories
 
 - [IH2 (documentation - this repository)](https://gitlab.com/InuitViking/ih2)
 - [IH2 for MKR1010](https://gitlab.com/InuitViking/ih2_mkr1010)
+- [IH2 App](https://gitlab.com/InuitViking/ih2-app)
 
 ## Requirements
 
